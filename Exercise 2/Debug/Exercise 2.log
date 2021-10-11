@@ -1,0 +1,4 @@
+﻿  Exercise 2.cpp
+Exercise 2.obj : error LNK2019: unresolved external symbol "public: __thiscall Rectangle::Rectangle(void)" (??0Rectangle@@QAE@XZ) referenced in function _main
+Exercise 2.obj : error LNK2019: unresolved external symbol "public: __thiscall triangle::triangle(void)" (??0triangle@@QAE@XZ) referenced in function _main
+C:\Users\UPC\source\repos\Exercise 2\Debug\Exercise 2.exe : fatal error LNK1120: 2 unresolved externals
